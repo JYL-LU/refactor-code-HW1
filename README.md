@@ -9,7 +9,7 @@ Horiseon is a website that helps business with their marketing strategies.
 - HTML
 - CSS
 
-## for more infromation, please visit the website at 
+## For more infromation, please visit the website at 
 
 https://jyl-lu.github.io/refactor-code-HW1/
 
