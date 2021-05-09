@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Horiseon is a website that helps business with their marketing strategies.
+Horiseon is a website that helps businesses with their marketing strategies.
 
 ## Built With
 
