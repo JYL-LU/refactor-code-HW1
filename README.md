@@ -2,18 +2,22 @@
 
 ## Purpose
 
-A website that offers fitness training services.
+Horiseon is a website that helps businesses with their marketing strategies.
 
 ## Built With
 
 - HTML
 - CSS
 
-## Website
+## For more infromation, please visit the website at
 
 https://jyl-lu.github.io/refactor-code-HW1/
 
 https://github.com/JYL-LU/refactor-code-HW1
+
+## Website Preview
+
+![website-homepage](https://user-images.githubusercontent.com/82979870/117582652-ee648180-b0b7-11eb-84a0-e932b99522a9.png)
 
 ## Contribution
 
