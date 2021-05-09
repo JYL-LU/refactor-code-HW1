@@ -15,7 +15,7 @@ https://jyl-lu.github.io/refactor-code-HW1/
 
 https://github.com/JYL-LU/refactor-code-HW1
 
-## Horiseon Image 
+## Website Preview
 
 ![website-homepage](https://user-images.githubusercontent.com/82979870/117582652-ee648180-b0b7-11eb-84a0-e932b99522a9.png)
 
